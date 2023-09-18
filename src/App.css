@@ -1,0 +1,9 @@
+body {
+  font-family: 'Roboto';
+}
+
+:root {
+  --black01: #0c0c0c;
+
+  --text-20: 20px;
+}

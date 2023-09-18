@@ -1,0 +1,20 @@
+.container {
+  width: 100%;
+}
+
+.content {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.title {
+  max-height: 100px;
+  overflow: hidden;
+}
+
+.imgContainer img {
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+}
